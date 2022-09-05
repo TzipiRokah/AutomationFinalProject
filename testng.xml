@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/user1/Desktop/Ness/Final project/Ebay_Tests2/TestNGAdvanced">
+        <classes>
+            <class name="ShoppingCart.AddToCart"></class>
+            <class name="ShoppingCart.CartUpdate"></class>
+            <class name="ShoppingCart.DeleteFromCart"></class>
+            <class name="Search.Search"></class>
+            <class name="Search.Filter"></class>
+            <class name="Authentication.Login"></class>
+            <class name="Authentication.Logout"></class>
+            <class name="Authentication.Registration"></class>
+        </classes>
+    </test>
+</suite>

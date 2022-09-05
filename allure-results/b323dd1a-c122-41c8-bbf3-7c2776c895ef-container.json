@@ -1,0 +1,1 @@
+{"uuid":"b323dd1a-c122-41c8-bbf3-7c2776c895ef","name":"ShoppingCart.DeleteFromCart","children":["8907b21d-a654-40a2-a84a-270cab6ae2ed"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1662408732661,"stop":1662408732663}],"afters":[],"start":1662408629558,"stop":1662408869437}

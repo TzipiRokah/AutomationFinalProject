@@ -1,0 +1,1 @@
+{"uuid":"83f2fc07-0ada-4044-a293-cdb89804c230","name":"ShoppingCart.CartUpdate","children":["a3c10eea-6419-4347-8a54-0c6fc23068b4"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1662408731872,"stop":1662408731873}],"afters":[],"start":1662408629557,"stop":1662408869436}
